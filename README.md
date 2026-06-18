@@ -18,6 +18,15 @@ the goal is to support children’s independence while giving parents visibility
 
 ---
 
+## 🎨 figma prototype
+
+the interactive prototype was designed in figma and demonstrates key user flows for both parents and children.
+
+🔗 view prototype:  
+https://www.figma.com/design/xgP9rlaYINTQazG6yLSAo9/DailyBuddy?t=O9o2S17exEyDWpXG-1
+
+---
+
 ## 🔍 user research
 
 ![user research results](assets/user-research-results.png)
