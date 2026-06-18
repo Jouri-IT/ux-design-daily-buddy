@@ -76,7 +76,7 @@ the smartwatch interface supports task reminders, rewards, health tracking, and 
 
 ## 🧪 usability testing
 
-![usability testing recommendations](assets/usability-testing-recommendations.png)
+![usability testing recommendations](assets/usability-testing-recs.png)
 
 testing was conducted using the think-aloud method with parent-child participants.
 
@@ -97,16 +97,3 @@ findings were used to refine flows and improve usability across both platforms.
 - smartwatch integration for children
 - health tracking (steps, sleep, heart rate, oxygen level)
 - real-time location tracking and alerts
-
----
-
-## 📄 documentation
-
-full project documentation is available in the attached pdf, including research, personas, design decisions, and usability findings.
-
----
-
-## 🎓 academic context
-
-it214 – user experience  
-king saud university – college of computer and information sciences
